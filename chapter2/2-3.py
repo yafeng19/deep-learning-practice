@@ -76,3 +76,4 @@ print(torch.abs(P).sum())
 print(torch.norm(P))
 # F范数（矩阵）
 print(torch.norm(Q))
+
